@@ -1,3 +1,6 @@
-Im Nandha Kumaran , Flutter Developer
-12th CS Student . I love creating apps!
-instagram @dev_.nandha 
+*Hi, I'm NandhaKumaran*
+
+12th CS Student with lots of interest on *App Development*
+
+Doing *Flutter* Apps since 2021 ,I love learning new stuff every single day and I'm Living in India .
+Diving Deep into the Backend !.You can find me on Instagram @Dev_.nandha
